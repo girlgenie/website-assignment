@@ -1,0 +1,46 @@
+/*  */
+.collapse navbar-collapse {
+    gap: 5rem;
+}
+.hero {
+    background-image: url('homepage_hero_image.png');
+    background-size: cover;
+    background-position: center;
+    height: 100vh; /* Adjust the height as needed */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.history-hero {
+    background-image: url('history-page-hero-image.png');
+    background-size: cover;
+    background-position: center;
+    height: 100vh; /* Adjust the height as needed */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container p {
+    background-color: black;
+    color: antiquewhite;
+    text-align: center;
+    padding: 5%;
+}
+
+.container h2{
+    text-align: center;
+    @font-face {
+        font-family: ;
+        src: url();
+    }
+}
+
+.container h1{
+    text-align: center;
+}
+
+.columns {
+    display: flex;
+}
