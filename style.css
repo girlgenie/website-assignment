@@ -13,7 +13,7 @@
 }
 
 .history-hero {
-    background-image: url('history-page-hero-image.png');
+    background-image: url('history-page-hero-image.png'); max-width: ;
     background-size: cover;
     background-position: center;
     height: 100vh; /* Adjust the height as needed */
